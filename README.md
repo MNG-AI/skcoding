@@ -3,7 +3,7 @@
 **AI Operations · AI Governance · AI Enablement**  
 Rock Hill, SC · Open to remote and Charlotte-area roles
  
-[Portfolio](https://stanleycarter.netlify.app) · [LinkedIn](https://www.linkedin.com/in/stanley-carter-jr/) · [eCommerce Tooling Repo](https://github.com/skcoding/ecom-operations-tooling)
+[Portfolio](https://stanleycarter.netlify.app) · [LinkedIn](https://www.linkedin.com/in/stanley-carter-jr/) · [eCommerce Tooling Repo](https://github.com/MNG-AI/ecom-operations-tooling)
  
 ---
  
@@ -20,16 +20,16 @@ My background spans LLM output evaluation, content governance, QA rubric design,
 ### 🗂️ [AI Content Governance System](https://github.com/MNG-AI/ecom-operations-tooling/tree/main/ai-content-governance-system)
 9-document operational framework for AI-assisted eCommerce content — locked system prompt, generation rules, attribute classification, pass/fail QA rubric, exception handling, and cross-team enablement docs. Built to stop content defects upstream.
  
-### ⚙️ [AI Workflow Skills](https://github.com/skcoding/ecom-operations-tooling/tree/main/ai-workflow-skills)
+### ⚙️ [AI Workflow Skills](https://github.com/MNG-AI/ecom-operations-tooling/tree/main/ai-workflow-skills)
 Production prompt assets giving an AI assistant persistent, specialized behavior for footwear PDP creation and input quality grading. Includes hard accuracy rules, closed-vocabulary enforcement, and a scoring system with visual report card output.
  
-### 🐍 [Brand Page URL Checker](https://github.com/skcoding/ecom-operations-tooling/tree/main/brand-page-url-checker)
+### 🐍 [Brand Page URL Checker](https://github.com/MNG-AI/ecom-operations-tooling/tree/main/brand-page-url-checker)
 Python scripts auditing ~755 brand URLs across two retail banners using HTTP redirect behavior — the only reliable signal on JS-rendered sites. Checkpoint/resume logic included.
  
-### 🐍 [Product Image Auditor](https://github.com/skcoding/ecom-operations-tooling/tree/main/product-image-auditor)
+### 🐍 [Product Image Auditor](https://github.com/MNG-AI/ecom-operations-tooling/tree/main/product-image-auditor)
 Concurrent CDN image checker (20 workers) that distinguishes real product photos from placeholders by payload size, then writes SHOT / NEEDS PHOTO status back to the master workbook.
  
-### 📊 [Sample Routing Macro](https://github.com/skcoding/ecom-operations-tooling/tree/main/sample-routing-macro)
+### 📊 [Sample Routing Macro](https://github.com/MNG-AI/ecom-operations-tooling/tree/main/sample-routing-macro)
 VBA macro series (v1→v4) that evolved from basic department routing to a full workflow tool — live formulas, inventory alerts, priority sorting, duplicate removal, and column management in a single run.
  
 ---
