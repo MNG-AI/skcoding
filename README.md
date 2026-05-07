@@ -17,7 +17,7 @@ My background spans LLM output evaluation, content governance, QA rubric design,
  
 ## Featured Work
  
-### 🗂️ [AI Content Governance System](https://github.com/skcoding/ecom-operations-tooling/tree/main/ai-content-governance-system)
+### 🗂️ [AI Content Governance System](https://github.com/MNG-AI/skcoding/ecom-operations-tooling/tree/main/ai-content-governance-system)
 9-document operational framework for AI-assisted eCommerce content — locked system prompt, generation rules, attribute classification, pass/fail QA rubric, exception handling, and cross-team enablement docs. Built to stop content defects upstream.
  
 ### ⚙️ [AI Workflow Skills](https://github.com/skcoding/ecom-operations-tooling/tree/main/ai-workflow-skills)
